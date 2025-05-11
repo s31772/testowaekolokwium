@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TEST2kolokwiumAPBD.props" />
+</Project>
